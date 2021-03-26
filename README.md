@@ -12,7 +12,9 @@ Like many ambitious thesis projects, it was a complete flop, but as we developer
 
 The beauty of the project lies in what happened behind the scenes. As project manager, I had already developed a relationship with the organization who then approached me with their vision so that by the time the semester started, I was able to recruit a team of 9 classmates. 
 
-# The SPY Process
+Want to learn more about the nuances of my skillset? Check out my standards-development-reviews ([],[],[]) from some of my courses.
+
+# The SPY Database Process
 
 ### Design Thinking
 Crucially, we first went through the entire [Design Thinking](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf) phase with SPY before writing a single line of code. We recorded interviews with staff and case managers where they told us what they wanted to be able to do and how they wanted to use the platform. We co-designed user stories and wireframes with them. We toured the organization and met the clients, and we role-played how the platform would exist within the organization.
@@ -38,3 +40,5 @@ In the end, the project was never completed, but the staff at SPY were so inspir
 
 
 I learned a great many lessons from this project. Above all it peaked my interest in the affects of human organizing on resulting technologies. (This is partly why I went off to get my masters degree to learn about the social realities that structure our latent technologies.)
+
+[sdr-371]: (https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)
