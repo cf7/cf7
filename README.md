@@ -8,7 +8,7 @@ My hopes are to gain more full stack experience and do so in the service of thos
 
 What I lack in experience I make up for in learning speed. I am more than willing to accept an internship if needed. 
 
-Want to learn about some nuances of my skillset? 
+Want to learn about some of my coding proficiencies? 
 Check out my standards-development-reviews from my courses:
 [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf),
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf),
