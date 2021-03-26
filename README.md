@@ -32,6 +32,8 @@ After an initial feature map and relational schema, it was off to the races! It 
 
 ### Deployment
 
-Unfortunately, we never made it to deployment. 
+Our plan was to deploy with Heroku, but unfortunately, we never made it to deployment. The semester ended and our department required that we spend our last semester working on a solo project. I spent the final months of school writing a test harness for the app, converting some of its pages to ReactJS, and onboarding underclassmen external freelancers who might be interested in carrying the project further.
+
+In the end, the project was never completed, but the staff at SPY were so inspired by our effort that they used our work and insights to apply for a grant for a company to develop a system for them. 
 
 
