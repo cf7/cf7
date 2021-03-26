@@ -12,7 +12,7 @@ Like many ambitious thesis projects, it was a complete flop, but as we developer
 
 The beauty of the project lies in what happened behind the scenes. As project manager, I had already developed a relationship with the organization who then approached me with their vision so that by the time the semester started, I was able to recruit a team of 9 classmates. 
 
-Want to learn more about the nuances of my skillset? Check out my standards-development-reviews ([sdr-371],[sdr-370],[sdr-284]) from some of my courses.
+Want to learn more about the nuances of my skillset? Check out my standards-development-reviews ([cmsi371][sdr-371], [cmsi370][sdr-370], [cmsi284][sdr-284]) from some of my courses.
 
 # The SPY Database Process
 
