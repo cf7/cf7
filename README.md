@@ -12,7 +12,9 @@ Like many ambitious thesis projects, it was a complete flop, but as we developer
 
 The beauty of the project lies in what happened behind the scenes. As project manager, I had already developed a relationship with the organization who then approached me with their vision so that by the time the semester started, I was able to recruit a team of 9 classmates. 
 
-Want to learn more about the nuances of my skillset? Check out my standards-development-reviews ([cmsi371][sdr-371], [cmsi370][sdr-370], [cmsi284][sdr-284]) from some of my courses.
+Want to learn more about the nuances of my skillset? Check out my standards-development-reviews ([cmsi371][371], [cmsi370][370], [cmsi284][284]) from some of my courses.
+
+[cmsi371][371]
 
 # The SPY Database Process
 
@@ -41,7 +43,7 @@ In the end, the project was never completed, but the staff at SPY were so inspir
 
 I learned a great many lessons from this project. Above all it peaked my interest in the affects of human organizing on resulting technologies. (This is partly why I went off to get my masters degree to learn about the social realities that structure our latent technologies.)
 
-[sdr-371]: (https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)
-[sdr-370]: (https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)
-[sdr-284]: (https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
+[371]: (https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)
+[370]: (https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)
+[284]: (https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
