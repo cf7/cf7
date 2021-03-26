@@ -8,7 +8,8 @@ My hopes are to gain more full stack experience and do so in the service of thos
 
 I am comfortable with not knowing things at first. What I lack in experience I make up for in learning speed and hard-earned lessons. (Test-Driven Development is the name of the game. Spending a lot of time reading documentation for a few lines of code is okay because, in the end, more time is saved than brute-forcing it. Lint your code. Always try solutions on paper/whiteboard before writing code. Always git pull before you start. Lint your code. Imagine your code in multiple languages. DRY code. Then DRY the DRY code. Naming is very important. Is it Portable? Scalable? Reusable? Revisit math fundamentals.) For me, software development is about more than just grinding away at the code. It's realizing the code is a translation of the relationship between our minds and the machine, the clocks and lists that fold spacetime and allow us to see beyond.
 
-Want to learn about some of my coding proficiencies? 
+Want to learn about some of my coding proficiencies?
+
 Check out my standards-development-reviews from my courses:
 [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf),
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf),
