@@ -14,7 +14,9 @@ The beauty of the project lies in what happened behind the scenes. As project ma
 
 Want to learn more about the nuances of my skillset? Check out my standards-development-reviews ([cmsi371][371], [cmsi370][370], [cmsi284][284]) from some of my courses.
 
-[cmsi371][371]
+[371]: (https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)
+[370]: (https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)
+[284]: (https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
 # The SPY Database Process
 
@@ -42,8 +44,4 @@ In the end, the project was never completed, but the staff at SPY were so inspir
 
 
 I learned a great many lessons from this project. Above all it peaked my interest in the affects of human organizing on resulting technologies. (This is partly why I went off to get my masters degree to learn about the social realities that structure our latent technologies.)
-
-[371]: (https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)
-[370]: (https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)
-[284]: (https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
