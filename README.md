@@ -6,7 +6,7 @@ However, I've finally moved back to Los Angeles and am ready to dive back into t
 
 It would be awesome if I could not only gain more full stack experience but also do so in the service of those less fortunate by working for an organization that makes an impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). The SPY Database was my undergraduate thesis project and the reason I didn't eat or sleep for 12 months. I was fortunate to partner with [Safe Place for Youth](https://www.safeplaceforyouth.org/), a youth homeless services organization based in Venice, CA, to implement a database-driven web application for their staff and case managers. (You can read about the project description [here](https://github.com/cf7/SPY/blob/master/docs/Project_Proposal.md).) 
 
-Like many senior-year-of-undergrad projects, it was a complete flop, but as we developers like to say, "Fail early and fail often!" The beauty of the project lies in what happened behind the scenes. That's the story I want to tell. 
+Like many ambitious thesis projects, it was a complete flop, but as we developers like to say, "Fail early and fail often!" The beauty of the project lies in what happened behind the scenes. That's the story I want to tell. 
 
 ## 
 
