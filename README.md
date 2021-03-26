@@ -8,9 +8,18 @@ It would be awesome if I could not only gain more full stack experience but also
 
 The SPY Database was my undergraduate thesis project and the reason I didn't eat or sleep for 12 months. I was fortunate to partner with [Safe Place for Youth](https://www.safeplaceforyouth.org/), a youth homeless services organization based in Venice, CA, to implement a database-driven web application for their staff and case managers. (You can read about the project description [here](https://github.com/cf7/SPY/blob/master/docs/Project_Proposal.md).) 
 
-Like many ambitious thesis projects, it was a complete flop, but as we developers like to say, "Fail early and fail often!" The beauty of the project lies in what happened behind the scenes. That's the story I want to tell. 
+Like many ambitious thesis projects, it was a complete flop, but as we developers like to say, "Fail early and fail often!" (Half our team got away with not doing any work whatsoever.)
 
-## 
+The beauty of the project lies in what happened behind the scenes. As project manager, I had already developed a relationship with the organization who then approached me with the project vision so that by the time the semester started, I was able to recruit a team of 9 classmates. 
 
+## The Process
 
+# Design Thinking
+Most importantly, we went through the entire [Design Thinking](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf) phase before writing a single line of code. We recorded interviews with staff and case managers where they told us what they wanted to do and how they wanted to use the platform. We co-designed use cases with them. We toured the organization and met the clients.
+
+# Prototyping
+We built a very cheap and easy prototype frontend for the platform based on this initial inquiry phase so that the staff could gain insights and provide invaluable early feedback before we spent weeks on features they neither needed nor wanted. This helped hone the vision.
+
+# Scrum/Kanban Cycle
+After the initial prototype, it was off to the races! 
 
