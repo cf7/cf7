@@ -4,7 +4,7 @@ I am a junior developer eager to move onto the next level of software engineerin
 
 However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development!
 
-My hopes are to gain more full stack experience and do so in the service of those less fortunate by working for an organization that makes an impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). __(Important Note: Since I switched my email addresses linked to my github account, my contribution history insights were erased from the repo. However, manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__
+My hopes are to gain more full stack experience and do so in the service of those less fortunate by working for an organization that makes an impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). __(Important Note: Since I switched my email addresses linked to my github account, my contribution history insights were erased from the repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__
 
 What I lack in experience I make up for in learning speed. I am more than willing to accept an internship if needed. 
 
