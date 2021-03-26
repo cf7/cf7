@@ -6,7 +6,7 @@ However, I've finally moved back to Los Angeles and am ready to dive back into t
 
 My hopes are to gain more full stack experience and do so in the service of those less fortunate by working for an organization that makes an impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). __(Important Note: Since I switched my email addresses linked to my github account, my contribution history insights were erased from the repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__
 
-I am comfortable with not knowing things at first. What I lack in experience I make up for in learning speed and hard-earned lessons. Test-Driven Development is the name of the game. Spending a lot of time reading a lot of documentation for a few lines of code is okay because, in the end, more time is saved than brute-forcing it. Lint your code. Always try solutions on paper/whiteboard before writing code. Always git pull before you start. Lint your code. See your code in multiple languages. DRY code. Then DRY your DRY code. Naming is very important.
+I am comfortable with not knowing things at first. What I lack in experience I make up for in learning speed and hard-earned lessons. (Test-Driven Development is the name of the game. Spending a lot of time reading documentation for a few lines of code is okay because, in the end, more time is saved than brute-forcing it. Lint your code. Always try solutions on paper/whiteboard before writing code. Always git pull before you start. Lint your code. Imagine your code in multiple languages. DRY code. Then DRY the DRY code. Naming is very important. Is it Portable? Scalable? Reusable? Revisit math fundamentals.) For me, software development is about more than just grinding away at the code. It's realizing the code is a translation of the relationship between our minds and the machine, the clocks and lists that fold spacetime and allow us to see beyond.
 
 Want to learn about some of my coding proficiencies? 
 Check out my standards-development-reviews from my courses:
@@ -15,7 +15,7 @@ Check out my standards-development-reviews from my courses:
 [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
 
-# The SPY Database Process
+# The SPY Database Development Process
 
 The SPY Database was my undergraduate thesis project and the reason I didn't eat or sleep for 12 months. I was fortunate to partner with [Safe Place for Youth](https://www.safeplaceforyouth.org/), a youth homeless services organization based in Venice, CA, to implement a database-driven web application for their staff and case managers. (You can read about the project description [here](https://github.com/cf7/SPY/blob/master/docs/Project_Proposal.md).) 
 
