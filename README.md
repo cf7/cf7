@@ -15,4 +15,4 @@ Check out my standards-development-reviews from my courses:
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf),
 [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
-[Read about the SPY Database Development Process.][SPY]
+[Read about the SPY Database Development Process.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
