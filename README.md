@@ -15,11 +15,18 @@ The beauty of the project lies in what happened behind the scenes. As project ma
 # The Process
 
 ## Design Thinking
-Most importantly, we went through the entire [Design Thinking](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf) phase before writing a single line of code. We recorded interviews with staff and case managers where they told us what they wanted to do and how they wanted to use the platform. We co-designed use cases with them. We toured the organization and met the clients.
+Most importantly, we went through the entire [Design Thinking](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf) phase before writing a single line of code. We recorded interviews with staff and case managers where they told us what they wanted to do and how they wanted to use the platform. We co-designed user stories and wireframes with them. We toured the organization and met the clients, and we role-played how the platform would exist within the organization.
 
 ## Prototyping
-We built a very cheap and easy prototype frontend for the platform based on this initial inquiry phase so that the staff could gain insights and provide invaluable early feedback before we spent weeks on features they neither needed nor wanted. This helped hone the vision.
+We built a very cheap and easy prototype frontend for the platform based on this initial inquiry phase so that the staff could gain insights and provide invaluable early feedback before we spent weeks on features they neither needed nor wanted. This also helped hone the vision and helped us devise a development strategy. 
+
+## Workflow Design
+We chopped up the project vision into features, each of which had workflows that spanned the entire pipeline of the application, front-to-back. 
+
+I had the idea that we could choose one 
 
 ## Scrum/Kanban Cycle
 After the initial prototype, it was off to the races! 
+
+It was at this point of the process that I had to learn fullstack development on the fly and train my team. 
 
