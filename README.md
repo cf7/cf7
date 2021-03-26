@@ -6,12 +6,6 @@ However, I've finally moved back to Los Angeles and am ready to dive back into t
 
 What I lack in experience I make up for in learning speed. My hopes are to gain more full stack experience and do so in the service of those less fortunate by working for an organization that makes an impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). __(Important Note: Since I switched my email addresses linked to my github account, my contribution history insights were erased from the repo. However, manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__
 
-The SPY Database was my undergraduate thesis project and the reason I didn't eat or sleep for 12 months. I was fortunate to partner with [Safe Place for Youth](https://www.safeplaceforyouth.org/), a youth homeless services organization based in Venice, CA, to implement a database-driven web application for their staff and case managers. (You can read about the project description [here](https://github.com/cf7/SPY/blob/master/docs/Project_Proposal.md).) 
-
-Like many young and ambitious thesis projects, it was a complete flop, but as we developers like to say, "Fail early and fail often!" The experience I gained from the project is invaluable (especially working in a context where half our development team somehow got away with not doing any work whatsoever.)
-
-The beauty of the project lies in what happened behind the scenes. As project manager, I had already developed a relationship with the organization who then approached me with their vision so that by the time the semester started, I was able to recruit a team of 9 classmates of various skillsets.
-
 Want to learn about some nuances of my skillset? 
 Check out my standards-development-reviews from my courses:
 [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf),
@@ -20,6 +14,12 @@ Check out my standards-development-reviews from my courses:
 
 
 # The SPY Database Process
+
+The SPY Database was my undergraduate thesis project and the reason I didn't eat or sleep for 12 months. I was fortunate to partner with [Safe Place for Youth](https://www.safeplaceforyouth.org/), a youth homeless services organization based in Venice, CA, to implement a database-driven web application for their staff and case managers. (You can read about the project description [here](https://github.com/cf7/SPY/blob/master/docs/Project_Proposal.md).) 
+
+Like many young and ambitious thesis projects, it was a complete flop, but as we developers like to say, "Fail early and fail often!" The experience I gained from the project has proven invaluable (especially working in a context where half our development team somehow got away with not doing any work whatsoever.)
+
+The beauty of the project, however, lies in what happened behind the scenes. As project manager, I had already developed a relationship with the organization who then approached me with their vision so that by the time the semester started, I was able to recruit a team of 9 classmates of various skillsets.
 
 ### Design Thinking
 Crucially, we first went through the entire [Design Thinking](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf) phase with SPY before writing a single line of code. We recorded interviews with staff and case managers where they told us what they wanted to be able to do and how they wanted to use the platform. We co-designed user stories and wireframes with them. We toured the organization and met the clients, and we role-played how the platform would exist within the organization.
