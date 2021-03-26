@@ -1,6 +1,6 @@
 # The SPY Database Development Process
 
-The SPY Database was my undergraduate thesis project and the reason I didn't eat or sleep for 12 months. I was fortunate to partner with [Safe Place for Youth](https://www.safeplaceforyouth.org/), a youth homeless services organization based in Venice, CA, to implement a database-driven web application for their staff and case managers. (You can read about the project description [here](https://github.com/cf7/SPY/blob/master/docs/Project_Proposal.md).) 
+The [SPY Database](https://github.com/cf7/SPY) was my undergraduate thesis project and the reason I didn't eat or sleep for 12 months. I was fortunate to partner with [Safe Place for Youth](https://www.safeplaceforyouth.org/), a youth homeless services organization based in Venice, CA, to implement a database-driven web application for their staff and case managers. (You can read about the project description [here](https://github.com/cf7/SPY/blob/master/docs/Project_Proposal.md).) 
 
 Like many young and ambitious thesis projects, it was a complete flop, but as we developers like to say, "Fail early and fail often!" The experience I gained from the project has proven invaluable (especially working in a context where half our development team somehow got away with not doing any work whatsoever.)
 
