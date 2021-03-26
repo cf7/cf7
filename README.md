@@ -1,4 +1,4 @@
-### Welcome!
+# Welcome!
 
 I am a junior developer ready to move onto the next level of software engineering. After graduating at the top of my class with my Bachelors in Computer Science from Loyola Marymount University, I spent three years out of state to pursue my passion of service immersion in and around homelessness in impoverished communities. During that time I was able to earn my masters degree with a focus on Social Justice and Homelessness Organizing as well as keep up my coding skills by taking graduate level computer science classes in Machine Learning and Artificial Intelligence.
 
@@ -12,14 +12,14 @@ Like many ambitious thesis projects, it was a complete flop, but as we developer
 
 The beauty of the project lies in what happened behind the scenes. As project manager, I had already developed a relationship with the organization who then approached me with the project vision so that by the time the semester started, I was able to recruit a team of 9 classmates. 
 
-## The Process
+# The Process
 
-# Design Thinking
+## Design Thinking
 Most importantly, we went through the entire [Design Thinking](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf) phase before writing a single line of code. We recorded interviews with staff and case managers where they told us what they wanted to do and how they wanted to use the platform. We co-designed use cases with them. We toured the organization and met the clients.
 
-# Prototyping
+## Prototyping
 We built a very cheap and easy prototype frontend for the platform based on this initial inquiry phase so that the staff could gain insights and provide invaluable early feedback before we spent weeks on features they neither needed nor wanted. This helped hone the vision.
 
-# Scrum/Kanban Cycle
+## Scrum/Kanban Cycle
 After the initial prototype, it was off to the races! 
 
