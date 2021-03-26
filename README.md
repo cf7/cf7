@@ -6,7 +6,7 @@ However, I've finally moved back to Los Angeles and am ready to dive back into t
 
 My hopes are to gain more full stack experience and do so in the service of those less fortunate by working for an organization that makes an impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). __(Important Note: Since I switched my email addresses linked to my github account, my contribution history insights were erased from the repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__
 
-What I lack in experience I make up for in learning speed. I am more than willing to accept an internship if needed. 
+I am comfortable with not knowing things at first. What I lack in experience I make up for in learning speed and hard-earned lessons. Test-Driven Development is the name of the game. Spending a lot of time reading a lot of documentation for a few lines of code is okay because, in the end, more time is saved than brute-forcing it. Lint your code. Always try solutions on paper/whiteboard before writing code. Always git pull before you start. Lint your code. See your code in multiple languages. DRY code. Then DRY your DRY code. Naming is very important.
 
 Want to learn about some of my coding proficiencies? 
 Check out my standards-development-reviews from my courses:
