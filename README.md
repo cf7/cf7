@@ -37,3 +37,4 @@ Our plan was to deploy with Heroku, but unfortunately, we never made it to deplo
 In the end, the project was never completed, but the staff at SPY were so inspired by our effort that they used our work and insights to apply for a grant for a company to develop the system for them.
 
 
+I learned a great many lessons from this project. Above all it peaked my interest in the affects of human organizing on resulting technologies. (This is partly why I went off to get my masters degree to learn about the social realities that structure our latent technologies.)
