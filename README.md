@@ -1,6 +1,6 @@
 # Welcome!
 
-I am a junior developer seeking an entry-level software engineering position. After graduating at the top of my class with my Bachelors in Computer Science from Loyola Marymount University, I spent three years out of state to pursue my passion of service immersion in and around homelessness in impoverished communities. During that time I was able to earn a Master's degree in Social Justice and Homelessness Organizing as well as keep up my coding skills by taking graduate level computer science classes in Machine Learning and Artificial Intelligence.
+I am a junior developer seeking entry-level software engineering positions. After graduating at the top of my class with my Bachelors in Computer Science from Loyola Marymount University, I spent three years out of state to pursue my passion of service immersion in and around homelessness in impoverished communities. During that time I was able to earn a Master's degree in Social Justice and Homelessness Organizing as well as keep up my coding skills by taking graduate level computer science classes in Machine Learning and Artificial Intelligence.
 
 However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development!
 
