@@ -4,7 +4,7 @@ I am a junior developer seeking internships and entry-level software development
 
 However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development!
 
-My hopes are to gain more full stack experience and do so in the service of those less fortunate by working for an organization that makes a positive impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). __(Important Note: Since I switched my email addresses linked to my github account, my contribution history insights were erased from the repo. However, manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__ (Please excuse the comments everywhere as it is an educational project as well.)
+My hopes are to gain more full stack experience and do so in the service of those less fortunate by working for an organization that makes a positive impact. Fortunately, I already have a bit of full stack experience from my main app development project: [SPY Database](https://github.com/cf7/SPY). __(Important Note: Since I switched my email addresses linked to my github account, my contribution history insights were erased from the repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__ (Please excuse the comments everywhere as it is an educational project as well.)
 
 [Read about the SPY Database Development Process.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
 
