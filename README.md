@@ -10,7 +10,7 @@ My hopes are to gain more full stack experience and do so in the service of thos
 
 I am comfortable with not knowing things at first. What I lack in experience I make up for in learning speed and hard-earned lessons. For me, software development is about more than just grinding away at the code. It's realizing that code is a translation of the relationship between our minds and the machine, the clocks and lists that fold spacetime and allow us to see beyond. I hope to use the languages of mind and machine to create a more socially just world.
 
-Check out my latest project! (Still proof of concept phase.)
+Check out my latest project! (Still proof of concept phase.)\
 [Fourier](https://github.com/cf7/Fourier)
 
 Want to learn about some of my coding proficiencies?\
