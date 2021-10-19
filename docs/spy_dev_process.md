@@ -17,7 +17,7 @@ We divided build assignments by feature, each of which had workflows that spanne
 
 What better way is there to choose a feature than by following the client data on its journey through the web app?!
 
-Adding a client to the database, therefore, was the first feature we tackled as a team that established our pipeline. This turned out to be an excellent move since it gave us early insight into how we could structure our database table schema as well as practice for our workflows. It was at this point of the process that I had to learn fullstack development on the fly and train my team at the same time (because we were all just students).
+"Adding a client to the database," therefore, was the first feature we tackled as a team that established our pipeline. This turned out to be an excellent move since it gave us early insight into how we could structure our database table schema as well as practice our workflows. It was at this point of the process that I had to learn fullstack development on the fly AND train my team at the same time (because we were all just students).
 
 ![IMG_2242.JPG](https://github.com/cf7/cf7/blob/main/images/IMG_2242.JPG?raw=True)
 
@@ -35,9 +35,9 @@ Each of us chose a feature we would implement end-to-end for a sprint. At the en
 
 ### Deployment
 
-Our plan was to deploy with Heroku, but unfortunately, we never made it to deployment. The semester ended and our department required that we spend our last semester working on a solo project. A majority of our team's developers lost interest as soon as they graduated. I spent the final months of school writing a test harness for the app, converting some of its pages to ReactJS, and onboarding underclassmen and external freelancers who might be interested in carrying the project further.
+Our plan was to deploy with Heroku . . . but unfortunately, we never made it to deployment. The semester ended and our department required students to spend their last semester working on a solo project, so a majority of our team's developers lost interest and left. I spent the final months of school writing a test harness for the app, converting some of its pages to ReactJS, and onboarding underclassmen and external freelancers who might be interested in carrying the project further. 
 
-In the end, the project was never completed, but the staff at SPY were so inspired by our effort that they used our work and insights to apply for a grant for a company to develop the system for them.
+In the end, the project was never completed, but the staff at SPY were so inspired by our effort that they used our work and insights to apply for a grant for a private company to develop the system for them.
 
 
 I learned a great many lessons from this project. Above all, it peaked my interest in the affects of human organizing on resulting technologies. (This is partly why I went off to get my masters degree to learn about the social realities that structure our technological infrastructure.)
