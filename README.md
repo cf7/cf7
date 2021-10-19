@@ -9,7 +9,7 @@ Here's my latest project, [Fourier](https://github.com/cf7/Fourier), a source co
 
 I already have a tiny bit of full stack experience from my senior thesis project: [SPY Database](https://github.com/cf7/SPY).
 
-__(Important Note: Since I switched my email address linked to my github account, my contribution history insights were erased from the repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the project.)__\
+__(Important Note: Since I switched my email address linked to my github account, my contribution history insights were erased from the repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the SPY project.)__\
 (Please excuse the comments everywhere as it is also an educational project.)
 
 [Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
