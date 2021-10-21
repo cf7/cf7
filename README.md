@@ -5,10 +5,20 @@ I am a junior developer seeking internships and entry-level software development
 However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development! My hopes are to gain as much frontend, full stack, or devops experience as I can working for an organization that makes a positive impact.
 
 Here's my latest project, [Fourier](https://github.com/cf7/Fourier), a sandbox interface where I practice my meager frontend design skills.\
-Tech Stack: React frontend, Node/Express backend, Tensorflow/Keras model, Webpack bundler, Heroku hosting
+Tech Stack: 
+- React frontend
+- Node/Express backend
+- Tensorflow/Keras model
+- Webpack bundler
+- Heroku hosting
 
 I already have a tiny bit of full stack experience from my senior thesis project: [SPY Database](https://github.com/cf7/SPY).\
-Tech Stack: React/JQuery frontend, Node/Hapi backend, PostgreSQL DB, Mocha/Chai test harness, Heroku hosting
+Tech Stack: 
+- React/JQuery frontend
+- Node/Hapi backend
+- PostgreSQL DB
+- Mocha/Chai test harness
+- Heroku hosting
 
 __(Important Note: Since I switched my email address linked to my github account, my contribution history insights were erased from the SPY repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the SPY project.)__ (Also, please excuse the comments everywhere as it is an educational project.)
 
