@@ -15,11 +15,11 @@ Tech Stack:
 
 I already have a tiny bit of full stack experience from my senior thesis project: [SPY Database](https://github.com/cf7/SPY).\
 Tech Stack: 
-- React/JQuery frontend
-- Node/Hapi backend
-- PostgreSQL DB
-- Mocha/Chai test harness
-- Heroku hosting
+- Frontend: React/JQuery frontend
+- Backend: Node/Hapi backend
+- DB: PostgreSQL
+- Testing: Mocha/Chai
+- Hosting: Heroku
 
 __(Important Note: Since I switched my email address linked to my github account, my contribution history insights were erased from the SPY repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the SPY project.)__ (Also, please excuse the comments everywhere as it is an educational project.)
 
