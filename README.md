@@ -14,7 +14,7 @@ Tech Stack:
 - Hosting: Heroku
 
 I also already have a tiny bit of full stack experience from my senior thesis project:\
-[SPY Database](https://github.com/cf7/SPY). - a prototype database management system for small nonprofit in Venice, CA.\
+[SPY Database](https://github.com/cf7/SPY) - a prototype database management system for small nonprofit in Venice, CA.\
 Tech Stack: 
 - Frontend: React.js/JQuery
 - Backend: Node.js/Hapi.js
