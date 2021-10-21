@@ -4,7 +4,7 @@ I am a junior developer seeking internships and entry-level software development
 
 However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development! My hopes are to gain as much frontend, full stack, or devops experience as I can working for an organization that makes a positive impact.
 
-Here's my latest project!
+Here's my latest project!\
 [Fourier](https://github.com/cf7/Fourier) - a sandbox interface where I demonstrate my meager frontend design skills for potential employers.\
 Tech Stack: 
 - Fronted: React.js
