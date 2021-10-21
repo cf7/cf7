@@ -15,8 +15,8 @@ Tech Stack:
 
 I already have a tiny bit of full stack experience from my senior thesis project: [SPY Database](https://github.com/cf7/SPY).\
 Tech Stack: 
-- Frontend: React.js/JQuery frontend
-- Backend: Node.js/Hapi.js backend
+- Frontend: React.js/JQuery
+- Backend: Node.js/Hapi.js
 - DB: PostgreSQL
 - Testing: Mocha.js/Chai.js
 - Hosting: Heroku
