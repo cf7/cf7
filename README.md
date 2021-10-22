@@ -49,7 +49,7 @@ Check out my standards-development-reviews from my courses:\
 Here are some of my cool university projects:
 
 [AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer)*
-- Designed and coded a functioning compiler (custom regex tokenizer, custom hand-coded parser (not auto generated from a parser-generator))
+- Designed and coded a functioning compiler (with custom hand-coded parser (not auto generated from a parser-generator))
 - Designed language features
 - Managed development process for team
 
