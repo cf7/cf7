@@ -4,8 +4,10 @@ I am a junior developer seeking internships and entry-level software development
 
 However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development! My hopes are to gain as much frontend, full stack, or devops experience as I can working for an organization that makes a positive impact.
 
-Here's my latest project!\
-[Fourier](https://github.com/cf7/Fourier) - a sandbox interface where I demonstrate my meager frontend design skills for potential employers.\
+Here's my latest project!
+
+[Fourier](https://github.com/cf7/Fourier) ~ a sandbox interface where I demonstrate my meager frontend skills for potential employers.
+
 Tech Stack: 
 - Fronted: React.js
 - Backend: Node.js/Express.js
@@ -13,8 +15,11 @@ Tech Stack:
 - Bundler: Webpack
 - Hosting: Heroku
 
-I also already have a tiny bit of full stack experience from my senior thesis project:\
-[SPY Database](https://github.com/cf7/SPY) - a prototype database management system for small nonprofit in Venice, CA.\
+I also already have a tiny bit of full stack experience from my senior thesis project:
+
+[SPY Database](https://github.com/cf7/SPY)
+~ a prototype database management system for a small nonprofit in Venice, CA.
+
 Tech Stack: 
 - Frontend: React.js/JQuery
 - Backend: Node.js/Hapi.js
@@ -22,28 +27,33 @@ Tech Stack:
 - Testing: Mocha.js/Chai.js
 - Hosting: Heroku
 
-__(Important Note: Since I switched my email address linked to my github account, my contribution history insights were erased from the SPY repo. Manually looking through the commit history will very clearly reveal that I am the primary contributor for the SPY project.)__ (Also, please excuse the comments everywhere as it is an educational project.)
+__Important Note: Since I switched my email address linked to my github account,\
+my contribution history insights were erased from the SPY repo. Manually looking\
+through the [commit history](https://github.com/cf7/SPY/commits/master) will very clearly reveal that I am the primary contributor\
+for the SPY project.
+(Also, please excuse the comments everywhere as it is an educational project.)__
 
 [Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
 
-Want to learn about some of my coding proficiencies?\
+Want to learn about some of my coding proficiencies?
+
 Check out my standards-development-reviews from my courses:\
 [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)\
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)\
 [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
-Here are some quick links to some of my cool university projects:\
-[AvaJava](https://github.com/cf7/AvaJava)\
-*Lead Developer*\
+Here are some quick links to some of my cool university projects:
+
+[AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer)*
 - Designed and coded a functioning compiler (custom regex tokenizer, custom hand-coded parser (not auto generated from a parser-generator))
 - Designed language features
 - Managed development process for team
 
-[3D Scene](https://github.com/cf7/cmsi371/tree/master/pipeline)\
+[3D Scene](https://github.com/cf7/cmsi371/tree/master/pipeline)
 - Designed Interactive Scene using WebGL 3D browser-based graphics
 - Built 3D Library of basic geometric shapes
 
-[Sprites](https://github.com/cf7/cmsi371/tree/master/sprites)\
+[Sprites](https://github.com/cf7/cmsi371/tree/master/sprites)
 - Designed parameterized sprites using HTML canvas graphics to build a two-dimensional animated scene
 - Implemented scene in a web browser using Javascript keyframe/tweening library
 - Built 2D Sprite Library using browser-based canvas graphics
