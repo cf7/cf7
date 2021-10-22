@@ -35,12 +35,16 @@ for the SPY project.
 
 [Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
 
+---
+
 Want to learn about some of my coding proficiencies?
 
 Check out my standards-development-reviews from my courses:\
 [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)\
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)\
 [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
+
+---
 
 Here are some of my cool university projects:
 
