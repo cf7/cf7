@@ -42,7 +42,7 @@ Check out my standards-development-reviews from my courses:\
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)\
 [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
-Here are some quick links to some of my cool university projects:
+Here are some of my cool university projects:
 
 [AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer)*
 - Designed and coded a functioning compiler (custom regex tokenizer, custom hand-coded parser (not auto generated from a parser-generator))
