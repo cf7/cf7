@@ -31,3 +31,19 @@ Check out my standards-development-reviews from my courses:\
 [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)\
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)\
 [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
+
+Here are some quick links to some of my cool university projects:
+[AvaJava](https://github.com/cf7/AvaJava)\
+*Lead Developer*
+- Designed and coded a functioning compiler (custom regex tokenizer, custom hand-coded parser (not auto generated from a parser-generator))
+- Designed language features
+- Managed development process for team
+
+[3D Scene](https://github.com/cf7/cmsi371/tree/master/pipeline)
+- Designed Interactive Scene using WebGL 3D browser-based graphics
+- Built 3D Library of basic geometric shapes
+
+[Sprites](https://github.com/cf7/cmsi371/tree/master/sprites)\
+- Designed parameterized sprites using HTML canvas graphics to build a two-dimensional animated scene
+- Implemented scene in a web browser using Javascript keyframe/tweening library
+- Built 2D Sprite Library using browser-based canvas graphics
