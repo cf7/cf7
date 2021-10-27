@@ -9,7 +9,7 @@ However, I've finally moved back to Los Angeles and am ready to dive back into t
 
 Here's my latest project!
 
-[Fourier](https://github.com/cf7/Fourier) ~ a sandbox interface where I demonstrate my meager web skills for potential employers.
+[Fourier](https://github.com/cf7/Fourier) ~ a sandbox interface where I demonstrate my meager web development skills for potential employers.
 
 Tech Stack: 
 - Fronted: React.js
