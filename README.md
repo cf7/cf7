@@ -4,7 +4,7 @@ I am a junior developer seeking internships and entry-level software development
 
 However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development! My hopes are to gain as much frontend, full stack, or devops experience as I can working for an organization that makes a positive impact.
 
-<sup><sub><sup><sub>If I could make all the links on this page open to new tabs to make things easier for readers, I would do it, but Github sanitizes its links which removes the "target" tag which prevents opening to new tabs.</sub></sup></sub></sup>
+<sup><sub><sup><sub>If I could make all the links on this page open to new tabs to make things easier for readers, I would do it, but Github sanitizes its links which removes the "target" tag which prevents opening to new tabs. For this, I apologize.</sub></sup></sub></sup>
 ---
 
 Here's my latest project!
