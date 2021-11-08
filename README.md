@@ -17,6 +17,7 @@ Tech Stack:
 - ML Model: Tensorflow/Keras
 - Bundler: Webpack
 - Hosting: Heroku
+- Testing: Jest.js/Enzyme.js
 
 Fourier uses a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).
 
