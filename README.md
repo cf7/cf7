@@ -19,7 +19,7 @@ Tech Stack:
 - Testing: Jest.js/Enzyme.js
 - Hosting: Heroku
 
-Fourier uses a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).
+Fourier uses a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).\
 And here is the same [Fourier](https://github.com/cf7/v-fourier) interface . . . but built with Vue.js! (work in progress as I learn the framework)
 
 ---
