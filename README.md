@@ -20,7 +20,7 @@ Tech Stack:
 - Hosting: Heroku
 
 Fourier uses a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).\
-And here is the same [Fourier](https://github.com/cf7/v-fourier) interface . . . but built with Vue.js! (work in progress as I learn the framework)
+And here is the same [Fourier](https://github.com/cf7/v-fourier) interface . . . but built with __Vue.js__! (work in progress as I learn the framework)
 
 ---
 
