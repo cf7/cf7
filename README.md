@@ -24,7 +24,7 @@ __Important Note: Since I switched my email address linked to my github account,
 my contribution history insights were erased from the SPY repo. Manually looking\
 through the [commit history](https://github.com/cf7/SPY/commits/master) will very clearly reveal that I am the primary contributor\
 for the SPY project.
-(Also, please excuse the comments everywhere as it is also an educational project.)__
+(Also, please excuse the comments everywhere in the codebase as it is also an educational project.)__
 
 [Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
 
