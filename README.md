@@ -23,13 +23,14 @@ Tech Stack:
 #### Titlebot Mini-app
 
 A mini application I built in half a day.
+- Site: [https://titlebot.herokuapp.com/](https://titlebot.herokuapp.com/)
 - Repo: [https://github.com/cf7/titlebot](https://github.com/cf7/title-bot)
 
 Tech Stack:
 - Frontend: React.js
 - Backend: Express.js
 - Bundler: Webpack
-- Hosting: TBD
+- Hosting: Heroku
 
 #### Fourier App
 
