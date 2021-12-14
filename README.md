@@ -38,7 +38,7 @@ for the SPY project.
 
 A sample landing page I built from scratch in two days:
 Site: [Landing Page](https://landing-page1111.vercel.app)
-Repo: [https://github.com/cf7/landing-page.git](https://github.com/cf7/landing-page.git)
+Repo: [https://github.com/cf7/landing-page.git](https://github.com/cf7/landing-page)
 
 Tech Stack:
 - Frontend: Next.js - React.js
@@ -47,9 +47,15 @@ Tech Stack:
 #### Titlebot Mini-app
 
 A mini application I built in half a day:
-
+[https://github.com/cf7/titlebot](https://github.com/cf7/title-bot)
 
 Tech Stack:
+- Frontend: React.js
+- Backend: Express.js
+- Bundler: Webpack
+- Hosting: TBD
+
+#### Fourier App
 
 Here's my latest project!
 
