@@ -74,7 +74,7 @@ Fourier uses a Sequence-to-Sequence neural network with LSTM layers, the code fo
 
 ---
 
-Want to learn about some of my coding proficiencies?
+### Coding Proficiencies
 
 Check out my Triplebyte scores:\
 [Triplebyte](https://triplebyte.com/tb/chris-franco-3mm7e1i/certificate)
