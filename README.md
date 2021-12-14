@@ -8,6 +8,8 @@ However, I've finally moved back to Los Angeles and am ready to dive back into t
 
 ---
 
+### Largest Project
+
 I already have a tiny bit of full stack experience from my 10-month senior thesis project:
 
 [SPY Database](https://github.com/cf7/SPY) ~ a prototype database management system for a small nonprofit in Venice, CA.
@@ -29,6 +31,25 @@ for the SPY project.
 [Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
 
 ---
+
+### Recent Projects
+
+#### Sample Landing Page
+
+A sample landing page I built from scratch in two days:
+Site: [Landing Page](https://landing-page1111.vercel.app)
+Repo: [https://github.com/cf7/landing-page.git](https://github.com/cf7/landing-page.git)
+
+Tech Stack:
+- Frontend: Next.js - React.js
+- Hosting: Vercel
+
+#### Titlebot Mini-app
+
+A mini application I built in half a day:
+
+
+Tech Stack:
 
 Here's my latest project!
 
