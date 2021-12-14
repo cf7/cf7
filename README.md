@@ -76,13 +76,13 @@ for the SPY project.
 
 ### Coding Proficiencies
 
-Check out my Triplebyte scores:\
-[Triplebyte](https://triplebyte.com/tb/chris-franco-3mm7e1i/certificate)
+Check out my Triplebyte scores.
+- [Triplebyte](https://triplebyte.com/tb/chris-franco-3mm7e1i/certificate)
 
-Check out my standards-development-reviews from my courses:\
-[CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)\
-[CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)\
-[CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
+Check out my standards-development-reviews from my courses.
+- [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf) - Computer Graphics
+- [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf) - Interaction Design
+- [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf) - Computer Systems Organization/Systems Programming
 
 ---
 
