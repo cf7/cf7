@@ -8,30 +8,6 @@ However, I've finally moved back to Los Angeles and am ready to dive back into t
 
 ---
 
-### Largest Project
-
-I already have a tiny bit of full stack experience from my 10-month senior thesis project:
-
-[SPY Database](https://github.com/cf7/SPY) ~ a prototype database management system for a small nonprofit in Venice, CA.
-
-Tech Stack: 
-- Frontend: React.js/JQuery
-- Backend: Node.js/Hapi.js
-- DB: PostgreSQL
-- Testing: Mocha.js/Chai.js
-- Styling: Bootstrap
-- Hosting: Heroku
-
-__Important Note: Since I switched my email address linked to my github account,\
-my contribution history insights were erased from the SPY repo. Manually looking\
-through the [commit history](https://github.com/cf7/SPY/commits/master) will very clearly reveal that I am the primary contributor\
-for the SPY project.
-(Also, please excuse the comments everywhere in the codebase as it is also an educational project.)__
-
-[Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
-
----
-
 ### Recent Projects
 
 #### Sample Landing Page
@@ -71,6 +47,30 @@ Tech Stack:
 - Hosting: Heroku
 
 Fourier uses a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).
+
+---
+
+### Largest Project
+
+I already have a tiny bit of full stack experience from my 10-month senior thesis project:
+
+[SPY Database](https://github.com/cf7/SPY) ~ a prototype database management system for a small nonprofit in Venice, CA.
+
+Tech Stack: 
+- Frontend: React.js/JQuery
+- Backend: Node.js/Hapi.js
+- DB: PostgreSQL
+- Testing: Mocha.js/Chai.js
+- Styling: Bootstrap
+- Hosting: Heroku
+
+__Important Note: Since I switched my email address linked to my github account,\
+my contribution history insights were erased from the SPY repo. Manually looking\
+through the [commit history](https://github.com/cf7/SPY/commits/master) will very clearly reveal that I am the primary contributor\
+for the SPY project.
+(Also, please excuse the comments everywhere in the codebase as it is also an educational project.)__
+
+[Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
 
 ---
 
