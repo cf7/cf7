@@ -17,6 +17,7 @@ Tech Stack:
 - Backend: Node.js/Hapi.js
 - DB: PostgreSQL
 - Testing: Mocha.js/Chai.js
+- Styling: Bootstrap
 - Hosting: Heroku
 
 __Important Note: Since I switched my email address linked to my github account,\
@@ -39,6 +40,7 @@ Tech Stack:
 - ML Model: Tensorflow/Keras
 - Bundler: Webpack
 - Testing: Jest.js/Enzyme.js
+- Styling: Bootstrap
 - Hosting: Heroku
 
 Fourier uses a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).
