@@ -2,7 +2,7 @@
 
 I am a junior developer seeking internships and entry-level software development positions. After graduating at the top of my class with my Bachelors in Computer Science from Loyola Marymount University, I spent three years out of state to pursue my passion of service immersion in and around homelessness in impoverished communities. During that time I was able to earn a Master's degree in Social Justice and Homelessness Organizing as well as keep up my coding skills by taking graduate level computer science classes in Machine Learning and Artificial Intelligence.
 
-However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development! My hopes are to gain as much frontend, full stack, or devops experience as I can working for an organization that makes a positive impact.
+However, I've finally moved back to Los Angeles and am ready to dive back into the world of software development! My hopes are to gain as much frontend or full stack experience as I can working for an organization that makes a positive impact.
 
 <sup><sub><sup><sub>If I could make all the links on this page open to new tabs to make things easier for readers, I would do it, but Github sanitizes its links which removes the "target" tag which prevents opening to new tabs. For this, I apologize.</sub></sup></sub></sup>
 
