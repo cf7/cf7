@@ -1,4 +1,4 @@
-I'm a junior developer seeking opportunities to learn cutting edge technologies in leading organizations. I have Full Stack experience working with React, Javascript, Python, and AWS based applications. In the future, I hope to grow my skills into Machine Learning and Data Science spaces.
+I'm a junior developer seeking opportunities to learn cutting edge technologies in leading organizations. I have Full Stack experience working with React, Javascript, Python, PostgreSQL, and AWS based applications. In the future, I hope to grow my skills into Machine Learning and Data Science spaces.
 
 ---
 
