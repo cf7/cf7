@@ -12,4 +12,5 @@ Here are some past projects I've worked on. Some were take-home projects for pre
 ### Titlebot Mini-App
 - a simple app that takes home page urls and displays the title of the home page
 - I needed to use a Node.js Express server to make cross-site requests from the backend to get around CORS restrictions and the "Same Origin Policy"
+  
 [ . . . coming soon ]
