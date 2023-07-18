@@ -8,3 +8,8 @@ Here are some past projects I've worked on. Some were take-home projects for pre
 - a landing page (frontend-only) that I coded up in about 12 hours from a figma design
 
 [https://landing-page-04.vercel.app/](https://landing-page-04.vercel.app/)
+
+### Titlebot Mini-App
+- a simple app that takes home page urls and displays the title of the home page
+- I needed to use a Node.js Express server to make cross-site requests from the backend to get around CORS restrictions and the "Same Origin Policy"
+[ . . . coming soon ]
