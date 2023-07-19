@@ -11,6 +11,7 @@ Here are some past projects I've worked on. Some were take-home projects for pre
 
 ### Titlebot Mini-App
 - a simple app that takes home page urls and displays the title of the home page
-- I needed to use a Node.js Express server to make cross-site requests from the backend to get around CORS restrictions and the "Same Origin Policy"
-  
+- it comes with a mini-API backend implemented with AWS Lambda and AWS API Gateway with a single endpoint
+- The backend receives the request with the user-provided url, makes an http request to grab the html from the site, parses through the html to find the `<title/>` tag, and finally returns the site's title in the response to the frontend.
+- The backend Python code for all this can be found here [https://github.com/cf7/titlebot-lambda](https://github.com/cf7/titlebot-lambda)
 [ . . . coming soon ]
