@@ -9,8 +9,8 @@ Here are some past projects I've worked on, some of which were take-home project
 
 ## Sample Landing Page
 - A frontend-only landing page that I coded up in about 12 hours based on a figma design.
-
-[https://landing-page-04.vercel.app/](https://landing-page-04.vercel.app/)
+- Frontend Code: [https://github.com/cf7/landing-page](https://github.com/cf7/landing-page)
+- **Website: [https://landing-page-04.vercel.app/](https://landing-page-04.vercel.app/)**
 
 <img width="1000" alt="Screen Shot 2023-07-21 at 2 50 38 AM" src="https://github.com/cf7/cf7/assets/10543888/2c562ef7-4f85-43e9-bbb1-a794c5188758">
 
@@ -21,7 +21,6 @@ Here are some past projects I've worked on, some of which were take-home project
 - The backend receives a request with the user-provided `url`, makes an http request to grab the `html` from the site the url points to, parses through the html to find the `<title>` tag, and finally, returns the site's `title` in its response to the frontend.
 - Frontend Code: [https://github.com/cf7/titlebot](https://github.com/cf7/titlebot)
 - Backend Code: [https://github.com/cf7/titlebot-lambda](https://github.com/cf7/titlebot-lambda)
-
-[https://titlebot.vercel.app/](https://titlebot.vercel.app/)
+- **Website: [https://titlebot.vercel.app/](https://titlebot.vercel.app/)**
 
 <img width="1000" alt="Screen Shot 2023-07-21 at 2 50 01 AM" src="https://github.com/cf7/cf7/assets/10543888/f00a5479-0ad4-4004-9bec-c8c8ee399cfa">
