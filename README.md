@@ -1,15 +1,21 @@
-I'm a junior developer seeking opportunities to learn cutting edge technologies in leading organizations. I have Full Stack experience working with React, Javascript, Python, PostgreSQL, and AWS applications. In the future, I hope to grow my skills into Machine Learning and Data Science spaces.
+# Introduction
+
+Hello! I'm Chris. I'm a junior developer seeking opportunities to learn cutting edge technologies in leading organizations. I have Full Stack experience working with React, Javascript, Python, PostgreSQL, and AWS applications. In the future, I hope to grow my skills into Machine Learning and Data Science spaces.
 
 ---
 
-Here are some past projects I've worked on, some of which were take-home projects for previous interviews.
+# Personal Projects
+Here are some past projects I've worked on, some of which were take-home projects from previous interviews.
 
-### Sample Landing Page
+## Sample Landing Page
 - A frontend-only landing page that I coded up in about 12 hours based on a figma design.
 
 [https://landing-page-04.vercel.app/](https://landing-page-04.vercel.app/)
 
-### Titlebot Mini-App
+<img width="1000" alt="Screen Shot 2023-07-21 at 2 50 38 AM" src="https://github.com/cf7/cf7/assets/10543888/2c562ef7-4f85-43e9-bbb1-a794c5188758">
+
+
+## Titlebot Mini-App
 - A simple app that takes home page urls, scrapes the html, and displays the `<title>` of the home page.
 - It comes with a mini-API backend implemented with `AWS Lambda` and `AWS API Gateway` that provides a single endpoint.
 - The backend receives a request with the user-provided `url`, makes an http request to grab the `html` from the site the url points to, parses through the html to find the `<title>` tag, and finally, returns the site's `title` in its response to the frontend.
@@ -17,3 +23,5 @@ Here are some past projects I've worked on, some of which were take-home project
 - Backend Code: [https://github.com/cf7/titlebot-lambda](https://github.com/cf7/titlebot-lambda)
 
 [https://titlebot.vercel.app/](https://titlebot.vercel.app/)
+
+<img width="1000" alt="Screen Shot 2023-07-21 at 2 50 01 AM" src="https://github.com/cf7/cf7/assets/10543888/f00a5479-0ad4-4004-9bec-c8c8ee399cfa">
