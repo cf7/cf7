@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! I'm Chris. I'm a junior developer seeking opportunities to learn cutting edge technologies in leading organizations. I have Full Stack experience working with React, Javascript, Python, PostgreSQL, and AWS applications. In the future, I hope to grow my skills into Machine Learning and Data Science spaces.
+Hello! I'm Chris. I'm a junior developer seeking opportunities to learn cutting edge technologies in leading organizations.  I have Full Stack experience building applications with React, Javascript, Python, PostgreSQL, and AWS Services as well as some DevOps experience. I enjoy solving complex technical challenges, especially when they involve architecture and software infrastructure design decisions. In the future, I hope to grow my skills into the Machine Learning and Data Science spaces.
 
 ---
 
