@@ -7,10 +7,10 @@ In the future, I hope to grow my skills into the Machine Learning and Data Scien
 ---
 
 # Personal Projects
-Here are some past projects I've worked on, some of which were take-home projects from previous interviews.
+Here are some simple take-home projects from previous interviews I've worked on.
 
 ## Sample Landing Page
-- A frontend-only landing page that I coded up in about 12 hours based on a figma design.
+- A frontend-only landing page that I coded up in a day based on a figma design.
 - Frontend Code: [https://github.com/cf7/landing-page](https://github.com/cf7/landing-page)
 - **Website: [https://landing-page-04.vercel.app/](https://landing-page-04.vercel.app/)**
 
