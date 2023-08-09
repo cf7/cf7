@@ -1,15 +1,15 @@
 # Introduction
 
-Hello! I'm Chris. I'm a Full Stack Software Engineer seeking opportunities to learn cutting edge technologies in leading organizations.  I have Full Stack experience building applications with React, Javascript, Python, PostgreSQL, and AWS Services as well as some DevOps experience. I enjoy solving complex technical challenges, especially when they involve architecture and software infrastructure design decisions. 
+Hello! I'm Chris. I'm a Full Stack Software Engineer seeking opportunities to learn cutting edge technologies in leading organizations.  I have proven experience building applications with React, Javascript, Python, PostgreSQL, and AWS Services as well as some DevOps experience. I enjoy solving complex technical challenges, especially when they involve architecture, data, and software infrastructure design decisions. 
 
-In the future, I hope to grow my skills into the Machine Learning and Data Science spaces.
+In the far future, I hope to grow my skills into the Machine Learning and Data Science spaces.
 
 ---
 
 # Personal Projects
 Here are some simple take-home projects from previous interviews I've worked on.
 
-## Sample Landing Page
+## Sample Landing Page (2021)
 - A frontend-only landing page that I coded up in a day based on a figma design.
 - Frontend Code: [https://github.com/cf7/landing-page](https://github.com/cf7/landing-page)
 - **Website: [https://landing-page-04.vercel.app/](https://landing-page-04.vercel.app/)**
@@ -17,7 +17,7 @@ Here are some simple take-home projects from previous interviews I've worked on.
 <img width="1000" alt="Screen Shot 2023-07-21 at 2 50 38 AM" src="https://github.com/cf7/cf7/assets/10543888/2c562ef7-4f85-43e9-bbb1-a794c5188758">
 
 
-## Titlebot Mini-App
+## Titlebot Mini-App (2021)
 - A simple app that takes home page urls, scrapes the html, and displays the `<title>` of the home page.
 - It comes with a mini-API backend implemented with `AWS Lambda` and `AWS API Gateway` that provides a single endpoint.
 - The backend receives a request with the user-provided `url`, makes an http request to grab the `html` from the site the url points to, parses through the html to find the `<title>` tag, and finally, returns the site's `title` in its response to the frontend.
