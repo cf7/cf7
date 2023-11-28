@@ -34,7 +34,7 @@ Here are some simple take-home projects from previous interviews I've worked on.
 
 ## Undergraduate Thesis Project (2017)
 
-[SPY Database](https://github.com/cf7/SPY) ~ a prototype web application for a small nonprofit in Venice, CA.
+[SPY App](https://github.com/cf7/SPY) ~ a prototype web application for a small nonprofit in Venice, CA.
 Tech Stack: 
 - Frontend: React.js / JQuery
 - Backend: Node.js / Hapi.js
