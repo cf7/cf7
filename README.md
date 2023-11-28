@@ -35,15 +35,18 @@ Here are some simple take-home projects from previous interviews I've worked on.
 ## Undergraduate Thesis Project (2017)
 
 [SPY App](https://github.com/cf7/SPY) ~ a prototype web application for a small nonprofit in Venice, CA.
+
 Tech Stack: 
 - Frontend: React.js / JQuery
 - Backend: Node.js / Hapi.js
 - DB: PostgreSQL
 - Testing: Mocha.js / Chai.js
 - Hosting: Heroku
+
 __Important Note: Since I switched my email address linked to my github account,\
 my contribution history insights were erased from the SPY repo. Manually looking\
 through the [commit history](https://github.com/cf7/SPY/commits/master) will very clearly reveal that I am the primary contributor\
 for the SPY project.
 (Also, please excuse the comments everywhere as it is also an educational project.)__
+
 [Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
