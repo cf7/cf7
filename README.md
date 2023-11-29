@@ -5,7 +5,7 @@ Hello! I'm Chris. I'm a Full Stack Software Engineer seeking opportunities to le
 In the near future, I hope to grow my skills into the Machine Learning and Artificial Intelligence spaces.
 
 ### * Updates:
-  - I've been working at a fast-paced startup for the last few years, which unfortunately means that I don't have recent personal projects to show off due to lack of free time -- so below are some small one-off projects I've done for interviews as well as my undergrad senior thesis project from years ago.
+  - I've been working at a fast-paced startup for the last few years, which unfortunately means that I don't have recent personal projects to show off due to lack of free time -- so below are some small one-off projects I've done for interviews as well as my undergrad projects and senior thesis project from years ago.
   - Please note that these are from a few years ago. My skills have grown considerably since.
 ---
 
@@ -49,3 +49,26 @@ for the SPY project.
 (Also, please excuse the comments everywhere as it is also an educational project.)__
 
 [Read about the Development Process our team used here.](https://github.com/cf7/cf7/blob/main/docs/spy_dev_process.md)
+
+---
+
+
+Some of my coding standards development reviews from my undergrad courses:\
+[CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)\
+[CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)\
+[CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
+
+---
+
+Some of my fun university projects:
+[AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer)*
+- Designed and coded a functioning compiler (with custom hand-coded parser (not auto generated from a parser-generator))
+- Designed language features
+- Managed development process for team
+[3D Scene](https://github.com/cf7/cmsi371/tree/master/pipeline) (solo project)
+- Designed Interactive Scene using WebGL 3D browser-based graphics
+- Built 3D Library of basic geometric shapes
+[Sprites](https://github.com/cf7/cmsi371/tree/master/sprites) (solo project)
+- Designed parameterized sprites using HTML canvas graphics to build a two-dimensional animated scene
+- Implemented scene in a web browser using Javascript keyframe/tweening library
+- Built 2D Sprite Library using browser-based canvas graphics
