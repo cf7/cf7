@@ -1,15 +1,14 @@
 # Introduction
 
-Hello! I'm Chris. I'm a Full Stack Software Engineer seeking opportunities to learn cutting edge technologies in leading organizations. I have proven experience building applications with React, Javascript, Python, PostgreSQL, and AWS Services as well as some DevOps experience. I enjoy solving complex technical challenges, especially when they involve architecture, data, and software design decisions. 
+Hello! I'm Chris. I'm a Full Stack Software Engineer seeking opportunities to learn cutting edge technologies in leading organizations. I have proven experience building applications with React, Javascript, Python, PostgreSQL, and AWS Services as well as a tiny bit of DevOps experience. I enjoy solving complex technical challenges, especially when they involve architecture, data, and software design decisions. 
 
 In the near future, I hope to grow my skills into the Machine Learning and Artificial Intelligence spaces.
 
 ### * Updates:
   - I've been working at a fast-paced startup for the last few years, which unfortunately means that I don't have recent personal projects to show off due to lack of free time -- so below are some small one-off projects I've done for interviews as well as my undergrad senior thesis project from years ago.
-  - Please note that these are from a few years ago. My skills have grown considerably since then.
+  - Please note that these are from a few years ago. My skills have grown considerably since.
 ---
 
-# Personal Projects
 Here are some simple take-home projects from previous interviews I've worked on.
 
 ## Interview Take-Home: Sample Landing Page (2021)
