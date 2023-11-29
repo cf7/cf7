@@ -52,23 +52,25 @@ for the SPY project.
 
 ---
 
+### More Undergraduate Work
 
 Some of my coding standards development reviews from my undergrad courses:\
 [CMSI371](https://github.com/cf7/cmsi371/blob/master/sdr-371.pdf)\
 [CMSI370](https://github.com/cf7/cmsi370/blob/master/sdr-370.pdf)\
 [CMSI284](https://github.com/cf7/cmsi284/blob/master/sdr-284.pdf)
 
----
+Some of my fun undergrad projects:
 
-Some of my fun university projects:
 [AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer)*
 - Designed and coded a functioning compiler (with custom hand-coded parser (not auto generated from a parser-generator))
 - Designed language features
 - Managed development process for team
-[3D Scene](https://github.com/cf7/cmsi371/tree/master/pipeline) (solo project)
+
+[3D Scene](https://github.com/cf7/cmsi371/tree/master/pipeline) *(Solo project)*
 - Designed Interactive Scene using WebGL 3D browser-based graphics
 - Built 3D Library of basic geometric shapes
-[Sprites](https://github.com/cf7/cmsi371/tree/master/sprites) (solo project)
+
+[Sprites](https://github.com/cf7/cmsi371/tree/master/sprites) *(Solo project)*
 - Designed parameterized sprites using HTML canvas graphics to build a two-dimensional animated scene
 - Implemented scene in a web browser using Javascript keyframe/tweening library
 - Built 2D Sprite Library using browser-based canvas graphics
