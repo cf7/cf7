@@ -33,7 +33,7 @@ Here are some simple take-home projects from previous interviews I've worked on.
 
 ## Undergraduate Thesis Project (2017)
 
-[SPY App](https://github.com/cf7/SPY) ~ a prototype web application for a small nonprofit in Venice, CA.
+[SPY App](https://github.com/cf7/SPY) *(Lead Developer)* ~ a prototype web application for a small nonprofit in Venice, CA.
 
 Tech Stack: 
 - Frontend: React.js / JQuery
@@ -61,7 +61,7 @@ Some of my coding standards development reviews from my undergrad courses:\
 
 Some of my fun undergrad projects:
 
-[AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer on Team Project)*
+[AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer)*
 - Designed and coded a functioning compiler (with custom hand-coded parser (not auto generated from a parser-generator))
 - Designed language features
 - Managed development process for team
