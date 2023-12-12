@@ -74,3 +74,10 @@ Some of my fun undergrad projects:
 - Designed parameterized sprites using HTML canvas graphics to build a two-dimensional animated scene
 - Implemented scene in a web browser using Javascript keyframe/tweening library
 - Built 2D Sprite Library using browser-based canvas graphics
+
+---
+
+### Side Projects
+
+#### Language Translation Model (2021)
+I tried my hand at some machine learning with a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).
