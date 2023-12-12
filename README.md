@@ -61,7 +61,7 @@ Some of my coding standards development reviews from my undergrad courses:\
 
 Some of my fun undergrad projects:
 
-[AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer)*
+[AvaJava](https://github.com/cf7/AvaJava) *(Lead Developer on Team Project)*
 - Designed and coded a functioning compiler (with custom hand-coded parser (not auto generated from a parser-generator))
 - Designed language features
 - Managed development process for team
