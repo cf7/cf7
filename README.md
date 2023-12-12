@@ -80,4 +80,4 @@ Some of my fun undergrad projects:
 ### Side Projects
 
 #### Language Translation Model (2021)
-I tried my hand at some machine learning with a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4).
+I tried my hand at some machine learning with a Sequence-to-Sequence neural network with LSTM layers, the code for which is featured on my [Kaggle](https://kaggle.com/cf1111/fourier4). It was mostly just for practicing the basics.
